@@ -62,9 +62,9 @@ header h1 {
 }
 
 .output {
-  font-size: x-large;
+  font-size: medium;
   font-weight: 600;
-  margin: 2rem 0;
+  margin: auto;
 }
 
 /* Footer */
